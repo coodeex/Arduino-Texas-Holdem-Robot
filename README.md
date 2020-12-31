@@ -18,6 +18,8 @@ Robotin tehtävä on jakaa kortit pelaajille ja pöytään kuten Texas hold'em p
 * Nippuside ja sinitarraa korttien linkomista varten
 * Muut osat kuten johdot, ruuvit ja mutterit yms.
 
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
 ## Toimintatavoite
 
 -Robotti jakaa ensin eri puolilla pöytää oleville pelaajille 2 korttia kuvapuoli alaspäin
@@ -36,10 +38,10 @@ Robotin tehtävä on jakaa kortit pelaajille ja pöytään kuten Texas hold'em p
 
 
 
-Toimintaperiaate 
+## Toimintaperiaate 
 
-Stepper pyörittää linkoa, joka lähettää kortin eteenpäin. 
+-Stepper pyörittää linkoa, joka lähettää kortin eteenpäin. 
 
-Alusta pyörii servon varassa liikkuen seuraavaa pelaajaa kohti.
+-Alusta pyörii servon varassa liikkuen seuraavaa pelaajaa kohti.
 
-Toinen servo voi pyörittää korttipakkakoteloa ylösalaisin.
+-Toinen servo voi pyörittää korttipakkakoteloa ylösalaisin.
