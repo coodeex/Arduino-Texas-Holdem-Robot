@@ -10,15 +10,18 @@ Robotin tehtävä on jakaa kortit pelaajille ja pöytään kuten Texas hold'em p
 * ULN2003 driver board
 * 2x Standard Size Servo 
 * Pelikortit
-* 3D-tulostetut osat 
 * Akselitanko Servolle 
 * Akryyliset laserleikatut osat 
 * Kulmarautoja
 * Nappula
 * Nippuside ja sinitarraa korttien linkomista varten
 * Muut osat kuten johdot, ruuvit ja mutterit yms.
+* 3D-tulostetut osat 
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+<img alt="3d-printed parts" src="images/fusion360Models.png">
+
+![dealing-cards-1](gifs/deal1.gif)
+![dealing-cards-2](gifs/deal2.gif)
 
 ## Toimintatavoite
 
