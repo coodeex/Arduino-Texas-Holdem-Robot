@@ -5,18 +5,18 @@ Robotin tehtävä on jakaa kortit pelaajille ja pöytään kuten Texas hold'em p
 
 ## Komponentit
 
-# Arduino UNO
-# Askelmoottori 28BYJ-48
-# ULN2003 driver board
-# 2x Standard Size Servo 
-# Pelikortit
-# 3D-tulostetut osat 
-# Akselitanko Servolle 
-# Akryyliset laserleikatut osat 
-# Kulmarautoja
-# Nappula
-# Nippuside ja sinitarraa korttien linkomista varten
-# Muut osat kuten johdot, ruuvit ja mutterit yms.
+* Arduino UNO
+* Askelmoottori 28BYJ-48
+* ULN2003 driver board
+* 2x Standard Size Servo 
+* Pelikortit
+* 3D-tulostetut osat 
+* Akselitanko Servolle 
+* Akryyliset laserleikatut osat 
+* Kulmarautoja
+* Nappula
+* Nippuside ja sinitarraa korttien linkomista varten
+* Muut osat kuten johdot, ruuvit ja mutterit yms.
 
 ## Toimintatavoite
 
