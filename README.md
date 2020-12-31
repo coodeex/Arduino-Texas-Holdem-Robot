@@ -18,7 +18,7 @@ Robotin tehtävä on jakaa kortit pelaajille ja pöytään kuten Texas hold'em p
 * Nippuside ja sinitarraa korttien linkomista varten
 * Muut osat kuten johdot, ruuvit ja mutterit yms.
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](gifs/deal1.gif)
 
 ## Toimintatavoite
 
