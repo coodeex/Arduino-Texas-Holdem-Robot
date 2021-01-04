@@ -3,7 +3,7 @@
 
 Robotin tehtävä on jakaa kortit pelaajille ja pöytään kuten Texas hold'em pokerissa.
 <br>
-Se on suunniteltu, mallinnettu ja rakennettu kokonaan itse eli niin sanotusti from scratch.
+Se on ryhmätyönä suunniteltu, mallinnettu ja rakennettu kokonaan itse eli niin sanotusti from scratch.
 
 ## Komponentit
 
